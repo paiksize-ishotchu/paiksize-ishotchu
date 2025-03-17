@@ -5,5 +5,4 @@
 
 Here are some ideas to get you started:-->
 - 🌱 Code Beginner 
-- 🌱 I’m currently learning ... KOTLIN
 
